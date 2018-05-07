@@ -1,0 +1,6 @@
+﻿  AufgabenProgrammierungI.cpp
+c:\users\lukas\source\repos\programmierungi\programmierungi\aufgabenprogrammierungi.cpp(177): warning C4244: "Argument": Konvertierung von "time_t" in "unsigned int", möglicher Datenverlust
+c:\users\lukas\source\repos\programmierungi\programmierungi\aufgabenprogrammierungi.cpp(260): warning C4477: "printf": Die Formatzeichenfolge "%d" erfordert ein Argument vom Typ "int", das variadic-Argument "1" weist aber den Typ "int *" auf.
+c:\users\lukas\source\repos\programmierungi\programmierungi\aufgabenprogrammierungi.cpp(281): warning C4477: "printf": Die Formatzeichenfolge "%d" erfordert ein Argument vom Typ "int", das variadic-Argument "1" weist aber den Typ "int *" auf.
+c:\users\lukas\source\repos\programmierungi\programmierungi\aufgabenprogrammierungi.cpp(367): warning C4101: "destFile": Unreferenzierte lokale Variable
+  ProgrammierungI.vcxproj -> C:\Users\Lukas\source\repos\ProgrammierungI\Debug\ProgrammierungI.exe
